@@ -10,12 +10,12 @@ Bring https://github.com/sveltejs/template to Sciter.js https://github.com/c-smi
 - [ ] Livereload
 
 
-If you're only interested on creating your project and start coding, just keep reading. For others trying to understand the details behind this work, you may read [svelte_to_sciterjs_startup.md](svelte_to_sciterjs_startup.md)
+If you're only interested on creating your project and start coding, just keep reading. For others trying to understand the details behind this work, you may read [svelte_to_sciterjs_startup_instructions.md](svelte_to_sciterjs_startup_instructions.md)
 
 
 ## Startup Instructions:
 
-######Get the full sciter-js-sdk or only the binaries
+###### Get the full sciter-js-sdk or only the binaries
 ```shell
 cd $HOME
 mkdir devTools && cd devTools
@@ -27,7 +27,7 @@ git clone https://github.com/c-smile/sciter-js-sdk
 chmod +x ./bin/linux/x64/scapp
 ```
 
-######Get a copy of this template
+###### Get a copy of this template
 ```shell
 cd your_prodjects_directory
 git clone https://github.com/jsprog/sciterjs-svelte-template/

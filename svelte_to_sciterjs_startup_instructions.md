@@ -165,10 +165,14 @@ import './polyfills'
 At the moment, our app is working without errors. Let's switch to development mode to track some errors.
 
 From your terminal, start the development server.
-> npm run dev
+```shell
+npm run dev
+```
 
 Open a second terminal and start the app.
+```shell
 > npm run scapp-main
+```
 
 Unfortuanately, we're receiving some errors. Let's track them one by one and keep adding polyfills untill we fix all the errors, or just apply these fixes.
 
